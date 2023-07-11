@@ -1,20 +1,3 @@
 {"questionlist":[
-{"cardfront":"CAT",
-"cardback":"GATO"
-},
-{"cardfront":"DOG",
-"cardback":"PERRO"
-},
-{"cardfront":"HORSE",
-"cardback":"CABALLO"
-},
-{"cardfront":"RABBIT",
-"cardback":"CONEJO"
-},
-{"cardfront":"TIGER",
-"cardback":"TIGRE"
-},
-{"cardfront":"KANGAROO",
-"cardback":"CANGURO"
-}
+{"cardfront":"Lepirudin ", "cardback":"Lepirudin is a protein-based direct thrombin inhibitor used as an anticoagulant in patients with heparin-induced thrombocytopenia."},{"cardfront":"Cetuximab ", "cardback":"Cetuximab is an endothelial growth factor receptor binding fragment used to treat colorectal cancer as well as squamous cell carcinoma of the head and neck."},{"cardfront":"Dornase alfa ", "cardback":"Dornase alfa is a synthetic form of human deoxyribonuclease I used to break down extracellular DNA in the lungs, a major source of mucous viscosity in cystic fibrosis."},{"cardfront":"Denileukin diftitox ", "cardback":"Denileukin diftitox is a recombinant cytotoxic protein based on a combination of diphtheria toxin fragments and interleukin-2 used to treat cutaneous T-cell lymphoma by targeting the interleukin-2 receptor."},{"cardfront":"Lepirudin ", "cardback":"Lepirudin is a protein-based direct thrombin inhibitor used as an anticoagulant in patients with heparin-induced thrombocytopenia."},{"cardfront":"Cetuximab ", "cardback":"Cetuximab is an endothelial growth factor receptor binding fragment used to treat colorectal cancer as well as squamous cell carcinoma of the head and neck."},{"cardfront":"Dornase alfa ", "cardback":"Dornase alfa is a synthetic form of human deoxyribonuclease I used to break down extracellular DNA in the lungs, a major source of mucous viscosity in cystic fibrosis."},{"cardfront":"Denileukin diftitox ", "cardback":"Denileukin diftitox is a recombinant cytotoxic protein based on a combination of diphtheria toxin fragments and interleukin-2 used to treat cutaneous T-cell lymphoma by targeting the interleukin-2 receptor."}
 ]}
